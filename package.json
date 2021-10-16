@@ -1,0 +1,19 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "description": "Responsive with pure css [flex]",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avr248/responsive.git"
+  },
+  "author": "avr248",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avr248/responsive/issues"
+  },
+  "homepage": "https://github.com/avr248/responsive#readme"
+}
